@@ -1,0 +1,20 @@
+# Dataset
+*.csv
+
+# Model and Features
+*.pkl
+
+# Evaluation Images
+*.png
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Virtual Environment (if created later)
+venv/
+env/
+.env
+
+# Streamlit Cache
+.streamlit/
